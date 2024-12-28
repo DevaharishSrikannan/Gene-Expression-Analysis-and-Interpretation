@@ -1,5 +1,6 @@
 # Gene-Expression-Analysis-and-Interpretation
 Assignment 2 ANAT40040-Bio Principles &amp; Cellular Org
+
 In this study, RNA-seq data is analysed for differential gene expression, survival, and pathway enrichment. Several R programs are used in this investigation for preprocessing, statistical analysis, and visualisation. All of this code's components and their purposes are explained below.
 
 # Step 1 (Download and Extraction)
