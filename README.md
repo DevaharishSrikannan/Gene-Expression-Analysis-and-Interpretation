@@ -1,5 +1,5 @@
 # Gene-Expression-Analysis-and-Interpretation
-Assignment 2 ANAT40040-Bio Principles &amp; Cellular Org
+Assignment 2 ANAT40040-Bio Principles &amp; Cellular Org 
 
 In this study, RNA-seq data is analysed for differential gene expression, survival, and pathway enrichment. Several R programs are used in this investigation for preprocessing, statistical analysis, and visualisation. All of this code's components and their purposes are explained below.
 
@@ -31,3 +31,5 @@ PCA and Heatmap Generation: In this method, involves the generation of a PCA plo
 
 # Step 9 (Survival Analysis)
 Survival Analysis Using glmnet: The variance-stabilized expression values of differentially expressed genes put into the Cox proportional hazards model. The model showed the effect of gene expression on patient survival because the glmnet package applies regularized regression to this end and, thus, evaluate gene expression effects on survival outcome.
+
+Devaharish Srikannan(24209538)
