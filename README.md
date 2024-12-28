@@ -3,6 +3,8 @@ Assignment 2 ANAT40040-Bio Principles &amp; Cellular Org
 
 In this study, RNA-seq data is analysed for differential gene expression, survival, and pathway enrichment. Several R programs are used in this investigation for preprocessing, statistical analysis, and visualisation. All of this code's components and their purposes are explained below.
 
+I have attached the code file in two segments, Firstly the Preprocessing Steps till Normalization and THe Model Code Document states the All Analysis part for the convience.
+
 # Step 1 (Download and Extraction)
 Initially,Downloaded the TCGA dataset, which includes CNA, clinical, and RNA-seq data, from cBioPortal. To access the appropriate information files, extracted the contents of the tar.gz file into a folder after downloading it. Verify that the extracted files are in the appropriate places for examination.
 
